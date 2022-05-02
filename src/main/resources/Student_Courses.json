@@ -1,0 +1,40 @@
+{
+	"studentCourseMapping": [
+		{
+			"name": "Alu",
+			"dept": "Physics",
+			"roll": 12,
+			"course": "Quantum Theory"
+		},
+		{
+			"name": "Alu",
+			"dept": "Physics",
+			"roll": 12,
+			"course": "English"
+		},
+		{
+			"name": "Sam",
+			"dept": "Commerce",
+			"roll": 16,
+			"course": "English"
+		},
+		{
+			"name": "Sam",
+			"dept": "Commerce",
+			"roll": 16,
+			"course": "Accounts"
+		},
+		{
+			"name": "Joe",
+			"dept": "Arts",
+			"roll": 19,
+			"course": "English"
+		},
+		{
+			"name": "Joe",
+			"dept": "Arts",
+			"roll": 19,
+			"course": "Hindi"
+		}
+	]
+}
